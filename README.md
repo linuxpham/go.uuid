@@ -19,7 +19,7 @@ Supported versions:
 
 Use the `go` command:
 
-	$ go get github.com/satori/go.uuid
+	$ go get github.com/linuxpham/go.uuid
 
 ## Requirements
 
@@ -32,7 +32,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/satori/go.uuid"
+	"github.com/linuxpham/go.uuid"
 )
 
 func main() {
